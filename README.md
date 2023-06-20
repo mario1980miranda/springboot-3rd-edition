@@ -1,4 +1,6 @@
-# Maven Frontend Plugin
+# springboot-3rd-edition
+
+## Maven Frontend Plugin
 
 Adds Node.js actions to Maven`s lifecycle.
 
@@ -22,4 +24,4 @@ Adds Node.js actions to Maven`s lifecycle.
 
 ```bash
 mvn generate-resources
-```# springboot-3rd-edition
+```
